@@ -52,8 +52,6 @@ cache:
   apt: true
   pip: true
   directories:
-    - $DOWNLOAD_CACHE
-    - $INSTALL_CACHE
     - $HOME/.ccm/repository
 
 stages:
