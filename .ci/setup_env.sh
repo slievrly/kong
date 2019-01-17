@@ -131,3 +131,7 @@ nginx -V
 resty -V
 luarocks --version
 openssl version
+perl --version
+cpanm --version
+cpanm Test::Nginx --info
+
