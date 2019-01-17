@@ -134,4 +134,3 @@ openssl version
 perl --version
 cpanm --version
 cpanm Test::Nginx --info
-

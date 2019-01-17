@@ -51,8 +51,6 @@ install:
 cache:
   apt: true
   pip: true
-  directories:
-    - $HOME/.ccm/repository
 
 stages:
   - lint and unit
